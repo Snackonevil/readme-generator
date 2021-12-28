@@ -32,7 +32,7 @@ ${data.contribute}
 ## Tests
 ${data.test}
 
-## License
+## License (${license.name})
 Copyright ${data.year} ${data.author}
 ${license.notice}
 
