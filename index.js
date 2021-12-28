@@ -3,7 +3,6 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const questions = require("./utils/questions");
 const generateMarkdown = require("./utils/generateMarkdown");
-// TODO: Create an array of questions for user input
 
 // TODO: Create a function to write README file
 function writeToFile(data) {
@@ -21,5 +20,5 @@ function init() {
 }
 
 // Function call to initialize app
-console.log("Let's create a README");
+console.log("Let's create a README...");
 init();
