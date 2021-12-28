@@ -3,14 +3,27 @@ const renderLicense = require("./licenses");
 
 function generateMarkdown(data) {
     let license = renderLicense(data.license);
-    return `# ${data.title}
-![badge](${license.badge})
-by ${data.author}
-Email: ${data.email}
-GitHub: ${data.github}
+    const {
+        title,
+        year,
+        badge,
+        author,
+        email,
+        github,
+        description,
+        install,
+        usage,
+        contribute,
+        test,
+    } = data;
+    return `# ${title}
+![badge](${badge})
+by ${author}
+Email: ${email}
+GitHub: ${github}
 
 ## Description
-${data.description}
+${description}
 
 ## Table of Contents
 - [Installation](#installation)
@@ -20,19 +33,19 @@ ${data.description}
 - [License](#license)
 
 ## Installation
-${data.install}
+${install}
 
 ## Usage
-${data.usage}
+${usage}
 
 ## Contribute
-${data.contribute}
+${contribute}
 
 ## Tests
-${data.test}
+${test}
 
 ## License (${license.name})
-Copyright ${data.year} ${data.author}
+Copyright ${year} ${author}
 ${license.notice}
 
 `;
