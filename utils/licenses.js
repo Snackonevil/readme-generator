@@ -1,4 +1,4 @@
-//License Information
+// License Information
 function renderLicense(license) {
     switch (license) {
         case "MIT":
@@ -6,9 +6,8 @@ function renderLicense(license) {
                 name: "MIT",
                 url: "this is a link",
                 badge: "https://img.shields.io/badge/license-MIT-blue",
-                notice: `Copyright 2021 Kevin Lacson
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+                notice: `
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
   
   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
   
@@ -19,7 +18,7 @@ function renderLicense(license) {
                 name: "GNU GPLv3",
                 url: "this is a link",
                 badge: "https://img.shields.io/badge/license-GNU%20GPLv3-red",
-                notice: `Copyright 2021 Kevin Lacson
+                notice: `
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or

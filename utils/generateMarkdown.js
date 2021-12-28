@@ -1,10 +1,14 @@
-let renderLicense = require("./licenses");
+// Generate Markdown for README.md
 
-// TODO: Create a function to generate markdown for README
+const renderLicense = require("./licenses");
+
 function generateMarkdown(data) {
     let license = renderLicense(data.license);
     return `# ${data.title}
 ![badge](${license.badge})
+by ${data.author}
+Email: ${data.email}
+GitHub: ${data.github}
 
 ## Description
 ${data.description}
@@ -29,6 +33,7 @@ ${data.contribute}
 ${data.test}
 
 ## License
+Copyright ${data.year} ${data.author}
 ${license.notice}
 
 `;
