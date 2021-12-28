@@ -1,3 +1,4 @@
+// Prompt Questions
 const inquirer = require("inquirer");
 
 const questions = [
