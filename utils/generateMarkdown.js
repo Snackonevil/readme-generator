@@ -1,5 +1,4 @@
 // Generate Markdown for README.md
-
 const renderLicense = require("./licenses");
 
 function generateMarkdown(data) {
