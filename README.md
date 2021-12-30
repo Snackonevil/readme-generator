@@ -1,8 +1,11 @@
 # README Generator
 
-![badge](undefined)
+![badge](https://img.shields.io/badge/license-MIT-blue)
+
 by Kevin Lacson
+
 Email: lacsonky@gmail.com
+
 GitHub: Snackonevil
 
 ## Description
@@ -14,7 +17,7 @@ This app creates a professional README.md for your project. This README was crea
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Contribute](#contribute)
--   [Test](#test)
+-   [Test](#tests)
 -   [License](#license)
 
 ## Installation
@@ -29,7 +32,9 @@ Use the command line to create file
 
 ## Tests
 
-## License (MIT)
+## License
+
+(MIT)
 
 Copyright 2021 Kevin Lacson
 
