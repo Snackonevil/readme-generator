@@ -2,11 +2,9 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-by Kevin Lacson
-
-Email: lacsonky@gmail.com
-
-GitHub: Snackonevil
+by Kevin Lacson  
+Email: lacsonky@gmail.com  
+GitHub: Snackonevil  
 
 ## Description
 
@@ -22,12 +20,14 @@ This app creates a professional README.md for your project. This README was crea
 
 ## Installation
 
-Requires Node.js and 'Inquirer' module
+Requires Node.js and 'Inquirer' module  
+`npm install` to install dependencies
+
 
 ## Usage
 
 Use the command line to create file  
-`npm run start`
+`npm run start` to run README Generator  
 
 ## Contribute
 
