@@ -14,11 +14,11 @@ This app creates a professional README.md for your project. This README was crea
 
 ## Table of Contents
 
--   [Installation](#installation)
--   [Usage](#usage)
--   [Contribute](#contribute)
--   [Test](#tests)
--   [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribute](#contribute)
+- [Test](#tests)
+- [License](#license)
 
 ## Installation
 
@@ -26,7 +26,8 @@ Requires Node.js and 'Inquirer' module
 
 ## Usage
 
-Use the command line to create file
+Use the command line to create file  
+`npm run start`
 
 ## Contribute
 
