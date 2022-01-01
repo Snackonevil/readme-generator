@@ -4,12 +4,14 @@
 
 by Kevin Lacson  
 Email: lacsonky@gmail.com  
-GitHub: Snackonevil  
+GitHub: [Snackonevil](https://github.com/Snackonevil)  
 
 ---
 ## Description  
-This command line app creates a professional README.md for your project. This README was created with this app.
+This command line app creates a professional README.md for your project. This README was created with this app.  
+GitHub Repository: [https://github.com/Snackonevil/readme-generator](https://github.com/Snackonevil/readme-generator)
 
+---
 ## Table of Contents
 
 -   [Installation](#installation)

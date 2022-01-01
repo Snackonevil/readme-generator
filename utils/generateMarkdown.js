@@ -9,9 +9,11 @@ by ${data.author}
 Email: ${data.email}
 GitHub: ${data.github}
 
+---
 ## Description
 ${data.description}
 
+---
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,18 +21,23 @@ ${data.description}
 - [Test](#tests)
 - [License](#license)
 
+---
 ## Installation
 ${data.install}
 
+---
 ## Usage
 ${data.usage}
 
+---
 ## Contribute
 ${data.contribute}
 
+---
 ## Tests
 ${data.test}
 
+---
 ## License 
 (${license.name})
 Copyright ${data.year} ${data.author}
