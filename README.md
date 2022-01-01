@@ -2,36 +2,33 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-by Kevin Lacson
+by Kevin Lacson  
+Email: lacsonky@gmail.com  
+GitHub: Snackonevil  
 
-Email: lacsonky@gmail.com
-
-GitHub: Snackonevil
-
-## Description
-
-This app creates a professional README.md for your project. This README was created with this app.
+---
+## Description  
+This command line app creates a professional README.md for your project. This README was created with this app.
 
 ## Table of Contents
 
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Contribute](#contribute)
--   [Test](#tests)
 -   [License](#license)
 
+---
 ## Installation
 
-Requires Node.js and 'Inquirer' module
+Install dependencies:  
+`npm install`
 
+---
 ## Usage
 
-Use the command line to create file
+Initialize app:  
+`npm start`
 
-## Contribute
-
-## Tests
-
+---
 ## License
 
 (MIT)
