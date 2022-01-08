@@ -4,7 +4,7 @@ const inquirer = require("inquirer");
 const questions = [
     {
         type: "input",
-        message: "Title:",
+        message: "Project Title:",
         name: "title",
     },
     {
