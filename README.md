@@ -4,14 +4,17 @@
 
 by Kevin Lacson  
 Email: lacsonky@gmail.com  
-GitHub: [Snackonevil](https://github.com/Snackonevil)  
+GitHub: [Snackonevil](https://github.com/Snackonevil)
 
 ---
-## Description  
+
+## Description
+
 This command line app creates a professional README.md for your project. This README was created with this app.  
 GitHub Repository: [https://github.com/Snackonevil/readme-generator](https://github.com/Snackonevil/readme-generator)
 
 ---
+
 ## Table of Contents
 
 -   [Installation](#installation)
@@ -19,18 +22,29 @@ GitHub Repository: [https://github.com/Snackonevil/readme-generator](https://git
 -   [License](#license)
 
 ---
+
 ## Installation
 
 Install dependencies:  
 `npm install`
 
 ---
+
 ## Usage
 
 Initialize app:  
 `npm start`
 
+Link to Walkthrough video:  
+[https://watch.screencastify.com/v/wIozWhdMKcmQnzXUSGXH](https://watch.screencastify.com/v/wIozWhdMKcmQnzXUSGXH)
+
+Screenshot:
+![screenshot](./assets/images/readme-generator-screenshot.png)
+
+![gif-of-generator](./assets/images/readme-generator-gif.gif)
+
 ---
+
 ## License
 
 (MIT)
