@@ -39,7 +39,7 @@ Link to Walkthrough video:
 [https://watch.screencastify.com/v/wIozWhdMKcmQnzXUSGXH](https://watch.screencastify.com/v/wIozWhdMKcmQnzXUSGXH)
 
 Screenshot:
-![screenshot](./assets/images/readme-generator-screenshot.png)
+![screenshot](./assets/images/readme-generator-screenshot.PNG)
 
 ![gif-of-generator](./assets/images/readme-generator-gif.gif)
 
